@@ -1,4 +1,3 @@
-
 # ESP32-CAM Based Face Recognition Attendance Management System
 
 ## 1. Project Overview
@@ -189,11 +188,9 @@ python attendance_web_shastha_fixed.py
 ### Step 5: Open the Web Dashboard
 
 Open the browser and enter:
-
 ```text
 http://127.0.0.1:5000
 ```
-
 The live camera feed and face recognition results will be displayed.
 
 ## 13. Advantages
