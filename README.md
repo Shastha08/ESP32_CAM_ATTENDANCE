@@ -4,9 +4,9 @@
 
 The ESP32-CAM Based Face Recognition Attendance Management System is an automated attendance monitoring project developed using Python, OpenCV, YuNet Face Detection and SFace Face Recognition.
 
-The system detects faces through an ESP32-CAM module, identifies registered individuals and automatically records their attendance with IN TIME and OUT TIME.
+The system detects faces through an ESP32-CAM module,identifies registered individuals and automatically records their attendance with IN TIME and OUT TIME.
 
-The system also provides a web-based dashboard to monitor live camera streaming, face recognition status and attendance records for the last 7 days.
+The system also provides a web-based dashboard to monitor live camera streaming,face recognition status and attendance records for the last 7 days.
 
 ## 2. Project Objectives
 
